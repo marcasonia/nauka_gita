@@ -15,3 +15,6 @@ Ex: *GIT*
 **Change 3**: Haven't learned anything else yet for GIT/Markdown
 
 Still a long way to go :smile:
+
+
+GIT is a useful tool
